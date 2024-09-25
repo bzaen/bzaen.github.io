@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bzaen.github.io/FYR/sitemap.FYR.gz
